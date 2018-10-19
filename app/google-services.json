@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869900492642",
+    "firebase_url": "https://evacuee-b30d8.firebaseio.com",
+    "project_id": "evacuee-b30d8",
+    "storage_bucket": "evacuee-b30d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869900492642:android:d89ee4d23f2daa5f",
+        "android_client_info": {
+          "package_name": "com.example.agarw.evacuee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869900492642-6571h9jp2t43ivd5dip8rt31vk1eeeqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnoslWFQNb5Jhm766TGAwgkiOjgjDrqPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

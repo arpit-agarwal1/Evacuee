@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">evacuee</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string name="passwordlog">password</string>
+    <string name="emaillog">email</string>
+    <string name="log_in">Log In</string>
+    <string name="viewfam">ViewFam</string>
+    <string name="basic_tool_kit">basic tool kit</string>
+    <string name="contact_support">contact support</string>
+    <string name="push_to_confirm">push to confirm</string>
+    <string name="emergency_contact_mr">Emergency contact - Mr.</string>
+    <string name="welcome">Welcome,</string>
+    <string name="masteremail">MasterEmail</string>
+    <string name="masterpassword">MasterPassword</string>
+    <string name="get_data">get data</string>
+    <string name="help_will_arrive_soon">Help will arrive soon!</string>
+</resources>
